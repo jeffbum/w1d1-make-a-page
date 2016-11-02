@@ -1,13 +1,13 @@
 .left{
     color:grey;
     text-align:center;
-    background-color: red;
+    background-color: blue;
 }
 h1{
-    color:red;
+    color:blue;
 }
 h2{
-    color: red;
+    color: blue;
     text-align: right;
     background-color:rgb(234, 241, 182);
 }
@@ -18,7 +18,7 @@ h2{
     text-decoration: underline;
 }
 a{
-    color: red;
+    color: blue;
 }
 
 footer{
